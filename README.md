@@ -55,3 +55,4 @@ Pygameを用いて、異なる幾何学的形状（円、矩形、三角形）�
 
 ## ライセンス
 [MIT License](LICENSE)
+<img width="998" height="781" alt="スクリーンショット 2026-05-10 120828" src="https://github.com/user-attachments/assets/6bf5e53a-304c-4ec0-b9ff-9c4e2c6238dc" />
